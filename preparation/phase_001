@@ -1,0 +1,350 @@
+# Dungeon Crawler Carl — Préparer ta première partie sur Foundry VTT
+
+[DUNGEON CRAWLER CARL Series Heads to Peacock With Seth MacFarlane and Chris Yost Steering the Chaos — GeekTyrant](https://images.openai.com/static-rsc-4/OhYRdKZfmF9G2n2fpV284TcTqrgN7_8PGJryOcMVaxOQcK01NiQQ-hFeMyEXx_qIdsFuQ5I-oHdCWITnN4QI4JBoA0UlJjAfRWU079iSzYc5VUIVp9fL3W65-Ad9IAdUgnvZMw6ZN47gA2wgVqyRh-E1sPRs8m5Tu4hDSHYC2do?purpose=inline)
+
+[ICv2: 'Dungeon Crawler Carl RPG' BackerKit Campaign Raises Over $4.5 Million](https://images.openai.com/static-rsc-4/--aY1t_2z2VhlVrQWXZhp8hTZC340wlxJXVh7MMLDDe6T4TxCAqRqQ8a8rm2o79JHYshTjtOmHwH9NFXOD8c5FgUAt1Gt06E-3g07Y-6IsJJUhlPH3tDyGJkuB5_C9rfT7jwEGg5_xBrpiKCDGwmCzohmAokrC1VujAxgcDNP-Q?purpose=inline)
+
+[Dungeon Crawler Carl Is Coming to Peacock — Here's Who Fans Want to Play Carl, Donut, and the Rest | myCast Blog | myCast.io](https://images.openai.com/static-rsc-4/A_jqn__d8o0JB8uDMvxA0VLbFb8n5bez4Wh62C8c-zzpBqnJ8AIJN48kHIq8p3giedovQXTWAA2xTObI9uEMyLo4kmYQH6u4uiZVE82ocTzRNG1xlxkWsh0pFIr033V3Ssn2tzaN0bIaKd42RU_yhIiGcpys1huBrNakTZnlebw?purpose=inline)
+
+8
+
+Je te propose de préparer un véritable kit de démarrage pour ta table Foundry VTT : un scénario original dans l'esprit de Dungeon Crawler Carl, des scènes à importer, des tokens pour les personnages et les monstres, ainsi qu'une structure de partie prête à animer.
+
+L'idée est de retrouver les ingrédients qui font le charme de cet univers : un donjon mortel transformé en émission de divertissement, des pièges absurdes, des monstres grotesques, des récompenses douteuses et un public qui juge les personnages comme des candidats de téléréalité.
+
+Je vais partir sur une aventure d'environ 3 heures, pour 3 à 5 joueurs, qui peut servir de première session sans exiger que tes amis connaissent déjà l'univers.
+
+Point important avant de commencer : la campagne BackerKit annonce une édition Foundry VTT officielle pour octobre 2026, avec le livre de base, le Starter Set et du contenu prêt à jouer selon l'offre choisie. Au 16 octobre 2026, la fenêtre de lancement annoncée est donc actuelle, mais je ne peux pas confirmer que le module est déjà disponible au téléchargement. Vérifie ton niveau de contribution et le gestionnaire de récompenses.&#x20;
+
+[image](https://www.google.com/s2/favicons?domain=https://www.backerkit.com\&sz=32)
+
+BackerKit
+
++2
+
+
+
+## 1. Ton scénario : « Épisode 01 — Bienvenue dans la fosse à clics »
+
+[Media — Tactical turn-based. One board. One victor.](https://images.openai.com/static-rsc-4/liJMmJkmDwaf2Bi5uK0F-tofWYwZ4S3vxbxHMu8AMDiCmf_4A7i2eZfBZmDjX02rW8-Tmk9L0IAX07-rgQgP3TJdEjQ3gD3_kjecf3oKzv8WyoPRvANt4q3pdPWfuS_ajJtx3yUBJQk89IHuY_2P6L3PqN3ZlnPWv2kAjaA_UwM?purpose=inline)
+
+[Inkarnate - Create Fantasy Maps Online](https://images.openai.com/static-rsc-4/AckFTf_FznGtH3GeMDOzc7LC4049XPPm5LxMcsSBsIbYR7b8O2gRm3SN48tc8H8P-QSqZDW8uMeLPTyCJJrm6CXvCFZ1QRKnLh4NLk2_kuJqH7SMn_x4A_8611I-YLftB9DpS9x9Uw8Gq0Nb7AzWKFB5UFw9e7iQEL2a1_1HkgQ?purpose=inline)
+
+[Mimic's Greedy Maw — 2K Quad HD Fantasy Wallpaper by QuantumCurator | 3072x1728 | Wallpaper Abyss](https://images.openai.com/static-rsc-4/aYKaf1g_8i40UEFK9pbsxCci3DL3Kk9gaOaDJQ70c3v16X3bX6u0GhAt-RGhHFNO2elFY29-VeOWcMQQr4PTN3ooDRDe70dNWoqE_9O5sTr88v3tiYIrvVzSTxqNIytFd8ldh_7e5XTETNE4WGzMfpvF1gdkBEHBzL2RnqG6D_I?purpose=inline)
+
+9
+
+## La fosse à clics
+
+Scénario original
+
+Durée
+
+2 h 30 à 3 h 30
+
+Groupe
+
+3 à 5 joueurs
+
+Ambiance
+
+Horreur comique
+
+Difficulté
+
+Initiation
+
+Pitch à lire aux joueurs
+
+« Félicitations, rampants ! Vous avez été sélectionnés pour participer à la nouvelle saison de votre émission préférée : SURVIVEZ OU FINISSEZ EN GIF !
+
+Derrière cette porte se trouvent de fabuleuses récompenses, une gloire éternelle et, potentiellement, vos restes encore tièdes. Souriez pour les caméras. Chaque mort fait de l'audience. Chaque victoire fait monter les enchères.
+
+Votre première épreuve commence MAINTENANT. »
+
+### Le contexte pour le MJ
+
+Les personnages se réveillent dans un ancien complexe commercial transformé en donjon télévisé. Une intelligence artificielle appelée MÈRE-PUBLICITÉ supervise leur épreuve. Elle est enthousiaste, cruelle, obsédée par les statistiques d'audience et incapable de comprendre pourquoi les humains n'apprécient pas les promotions limitées dans le temps.
+
+Le groupe doit traverser trois salles pour gagner son premier coffre de récompense et obtenir l'accès au niveau suivant.
+
+### Déroulement de la session
+
+[Czepeku Sci-Fi | Illustrated sci-fi maps](https://images.openai.com/static-rsc-4/2KQD4XkTk4UU0arxaxpNuuqHiwB0rIOO6E5rVG00yzxmAAUA_xPbxRCuNBvwhq3aX6mFbDp1tHASMQxxYO2XHwGFuGHTfUi6FpH0lqONY1qpPPRz3MKhUkXWCT6znU5mRFmNrU4vcnF5eJXTEEKVTZQAmiGKrWd28ggQ4KdgqH8?purpose=inline)
+
+### Scène 1 — Le sas des nouveaux (20–30 min)
+
+Exploration et présentation des personnages
+
+Les personnages sont enfermés dans un sas métallique. Un écran leur attribue des pseudonymes ridicules, affiche leur nombre de spectateurs et leur demande de choisir un slogan personnel.
+
+Événement : un distributeur automatique propose une potion gratuite. Il faut lui donner un compliment sincère pour la recevoir. Si les joueurs insultent la machine, elle les arrose de soda brûlant.
+
+Objectif : comprendre que le donjon est un spectacle et découvrir les règles de l'émission.
+
+[Armored Corridor | TT-RPG](https://images.openai.com/static-rsc-4/CXeBiAAF_qQWUYPN57Wj5kxGN5QQTGEghiuHyuqrz98yM6hqKffOZ3_Gw99CIusp1atB6JypckpF4DUP5KMmI-rbCF2pYwGkD2mmFeb55tNKj60DqMhlczv6Lztmx6B9QzRsvZ4CoYoyT70ItnlgBNYTveaMcAjyQv8if4J0FSc?purpose=inline)
+
+### Scène 2 — Le couloir des mauvaises décisions (35–45 min)
+
+Pièges, coopération et choix difficiles
+
+Un couloir de 12 cases de long comporte trois mécanismes : un sol qui s'effondre, des jets de vapeur et une porte qui ne s'ouvre que si deux leviers sont activés simultanément.
+
+Twist : les instructions sur l'écran sont techniquement exactes, mais formulées de façon trompeuse. Un petit monstre inoffensif connaît le vrai chemin et demande à être porté jusqu'à la sortie.
+
+Objectif : franchir le couloir sans épuiser toutes les ressources du groupe.
+
+[The MAD Cartographer - Gallery — The MAD Network](https://images.openai.com/static-rsc-4/Vc8ApAyd5AwfmLmlXvP-DQWFHwmt7wHaO20ME4eabXp5dGH35HoHGI6Qitey5gClzgZaCKduBrgBqQUUrJ5ldz8NoixKhDuWdg6ER9v5iJdjcQCJun9ebGDoxsjWCJzPJSY-UNM6kDpquJNliJAjCQXH53BBAYyOK7HNPaiNh-g?purpose=inline)
+
+### Scène 3 — Le coffre qui vous veut du mal (45–60 min)
+
+Combat de boss et solution créative
+
+Dans une arène circulaire, un coffre doré trône au milieu d'un pentagramme lumineux. Dès qu'un personnage tente de l'ouvrir, le coffre révèle ses dents : c'est un Mimique influenceur, qui diffuse en direct les pires moments du combat.
+
+Il invoque deux petites créatures publicitaires et change périodiquement les règles de l'arène.
+
+Objectif : vaincre le boss, le piéger ou lui faire perdre son public.
+
+[Gleam & Glory Quest - Trivia Game by Jabali AI](https://images.openai.com/static-rsc-4/GYcoEySde9i4EVfaiz7x4nlZ5ntyIDmARE7bQWFQFChGmyVYOdQl6SU5vnaIdDbJWoGa-mqf_D-8ZUFXNL59j5p2hNNqKu0NdWW5IYpzVqDOmuVxg9JGToDuYif1zxGycCaboyPDnwTnpGBZj2ndEY7HwOzEGWSqE7Zf8KiggaQ?purpose=inline)
+
+### Épilogue — La récompense sponsorisée (15 min)
+
+Le coffre contient une récompense utile, mais elle est accompagnée d'une publicité magique impossible à désactiver.
+
+L'IA annonce que le groupe est devenu viral. Un mystérieux message apparaît ensuite : « Vous avez survécu à l'épreuve. Vous n'avez pas survécu à la sélection. »
+
+### Les personnages non-joueurs
+
+[B.AI.f.H: Deus ex Machina](https://images.openai.com/static-rsc-4/r_vRlYF-kKa2QD-4KHuCcwqM1_aB6W0zIu3rnY6oTFFeOhpkB4cilAclvx3aM-iU5ODwcIhz3flJxv2CDBYERvI96D9Ui0o_UY1xyBHZWQgM-ThYOeLH2xF5t75sxR2Yj7gBMsQXmoFAPTCAfwGFGY_8FNG5A99jY_pIoWX7dZI?purpose=inline)
+
+MÈRE-PUBLICITÉ — l'IA du donjon
+
+Voix joviale, annonces permanentes et humour noir. Elle commente les actions des joueurs comme un présentateur sportif.
+
+[Twitch と Youtube でストリーミングするためのゴブリン Vtuber アバター! 4x Dnd Png tuber Boy | Veadotube リアクティブ Pngtuber 男性モデル! - Etsy 日本](https://images.openai.com/static-rsc-4/f2vplRuaHQ3wPWqbs5xlO2e4bO1pyHT_d2Bm5t4hSPkEHFj3F1NW26fQ_J8O_PdLuKcdr2FyOYMWivAbw-tUasrwZZrk_5VMQoTy1lajNS0rRGb1lzXcs-yFdqlZxPsbYh5FRDezoeOoz_8881CVBvy6WIn2-DYcvGtuk4jZy6I?purpose=inline)
+
+Gégé — le gobelin figurant
+
+Un petit monstre qui veut simplement terminer son service. Il connaît les pièges, négocie tout et peut devenir un allié récurrent.
+
+[Mimic - Monster - The Bazaar](https://images.openai.com/static-rsc-4/-AD3FZZdfBpiSB81rMmMtM5y1PSoF-thYkO6u4oUOQUV5nLBKcKfdt0eSEv3NIPOcagvgoZHpApT_bR1LngPP-CgYFz3iYekqKZgbHu2_fJFtahCHTiD4MSeGHzOs6ZTkR9KtZ91GAIjq30HSEqjklV9zyOjFSLbZATb4jPZo8c?purpose=inline)
+
+Le Mimique influenceur — boss final
+
+Un coffre carnivore qui adore les combats spectaculaires. Il préfère ridiculiser les personnages plutôt que les tuer immédiatement.
+
+### Le boss en version provisoire
+
+Ces valeurs sont des suggestions maison pour une rencontre narrative, pas des statistiques officielles du jeu. Adapte les dégâts, les tests et les points de vie aux règles de ton édition.
+
+| Élément              | Proposition                                         |
+| -------------------- | --------------------------------------------------- |
+| Points de vie        | 30–40 pour 3 joueurs ; 45–55 pour 5                 |
+| Défense              | Moyenne, avec une carapace solide                   |
+| Attaque principale   | Morsure et langue collante                          |
+| Capacité spéciale    | À mi-vie, change les cases sûres de l'arène         |
+| Faiblesse            | Les projecteurs et les écrans de contrôle           |
+| Victoire alternative | Pirater le direct ou retourner le public contre lui |
+
+Trois événements à déclencher pendant le combat :
+
+1. À 75 % de ses PV, le boss exige que chaque personnage annonce son nom de scène.
+2. À 50 %, deux cases deviennent dangereuses et une autre soigne les personnages.
+3. À 25 %, il tente de négocier un partenariat publicitaire au lieu de mourir.
+
+Pour un jeu basé sur des compétences et des classes spécifiques, remplace les tests génériques par les caractéristiques et les difficultés prévues dans le livre de règles officiel.
+
+## 2. Les maps à récupérer pour Foundry VTT
+
+Je privilégierais des cartes avec une vue du dessus, une grille carrée ou une version sans grille. Tu pourras les utiliser avec pratiquement n'importe quel système de jeu.
+
+[The Cultist Lair – A Dungeon Map from 2-Minute Tabletop](https://images.openai.com/static-rsc-4/8pu84rRBKw-bozBmenx8G6_PvvlTaRWk1chKbKkG3tknfIj37xSYufBDqI_ep6gqvv-CtYfp8gwmpYqK-C1b7-IuPy-WeNi_X4AoGH8IF8JE0oD8f-jbYNrMNPcUck--QucCaRQIjmd8hxLx8L7-0kfkcEjPsExJDlNfq2BfEkg?purpose=inline)
+
+1\. Descending Dungeon — pour le couloir et l'exploration
+
+Gratuit au choix
+
+Une carte de donjon descendant, avec des variantes claires et sombres. Très pratique pour les passages piégés et les rencontres en espaces confinés.
+
+Format : JPG, versions avec variations visuelles.
+
+&#x20;[Télécharger chez 2-Minute Tabletop](https://2minutetabletop.com/product/descending-dungeon/?utm_source=chatgpt.com)
+
+Licence CC BY-NC 4.0 : usage non commercial, attribution selon les conditions de la licence.&#x20;
+
+[image](https://www.google.com/s2/favicons?domain=https://2minutetabletop.com\&sz=32)
+
+3 Maps
+
+
+
+[Inkarnate - Create Fantasy Maps Online](https://images.openai.com/static-rsc-4/2azJp1xHgLSC6a4ORdhGfmU_2tF2N8UEkVhfqfwOw-WlQxN5niM5U48uYp_BNbM6SL2YqRUPUZNp60h_B8xreTzOKaIWc-gEEE9IfZLeqCvIdAQ_EQVOca8BNzTKHI6Brad4RN2Z0S4E8zxNRmZz27yR4w4UIirIIx-WY-UEqMw?purpose=inline)
+
+2\. Deephold — le pack de démarrage
+
+Gratuit
+
+Trois cartes : donjon de pierre, grotte et mine. Le pack inclut des versions joueurs et MJ, des pièges annotés et des fichiers Universal VTT pour les murs, portes et lumières.
+
+&#x20;[Télécharger sur itch.io](https://defaulted19.itch.io/deephold-free-starter-pack?utm_source=chatgpt.com)
+
+Idéal si tu veux gagner du temps sur la préparation technique.&#x20;
+
+[image](https://www.google.com/s2/favicons?domain=https://defaulted19.itch.io\&sz=32)
+
+Free Starter Pack by Defaulted
+
+
+
+[Free Modern Manufacturing Plant TTRPG Battlemaps — Tom Cartos](https://images.openai.com/static-rsc-4/oTiKtDK_5miK2adz5GS7UB8OzbO-UbCpIZUTzCZt-cIY0tTNv507e5Cp-41Ti6r69rgb3RmppT0U3CxIr_RTd3F-7n1MyTNi3s1u8qQMOtGOKFoL0j8OANKX6lPMs7yDLiNt26slZaoqE6xYgVKyxZ940vGBv1ACT-Cu8cb7U98?purpose=inline)
+
+3\. Dreamcore Factory — pour le donjon télévisé
+
+Une esthétique industrielle et étrange qui colle bien à une salle de contrôle, une usine de pièges ou une zone technologique du donjon.
+
+&#x20;[Chercher Dreamcore Factory dans les cartes gratuites](https://2minutetabletop.com/product-category/free/?utm_source=chatgpt.com)
+
+Vérifie les fichiers et la licence de cette carte avant de l'utiliser.&#x20;
+
+[image](https://www.google.com/s2/favicons?domain=https://2minutetabletop.com\&sz=32)
+
+2-Minute Tabletop Maps
+
+
+
+[Czepeku | TTRPG Battlemaps, Tokens & Scenes for D&D, Pathfinder & More](https://images.openai.com/static-rsc-4/bZakGU0Z8MutVx82b4Go4Hco8FT8jQYaWUMm1GFrKJ3yEKu8hEY721mXgevDAfcUTTLhF12N0wQ2sCDyYBlaSMeYIJFccBhb9RtYdbP_JSrncnHNLwHAJJDeI6KIKomq1mJxLjaz9fpfqGzLTUfHb4PpQD79bBwh7YpssjR6p-4?purpose=inline)
+
+4\. Pack de 165 battle maps de Zak_jdr
+
+Une grosse collection à télécharger en une fois : donjons, cavernes, temples, ruines, villages et souterrains. Très utile si tu souhaites préparer plusieurs sessions.
+
+&#x20;[Récupérer le pack sur itch.io](https://zak-jdr.itch.io/165-battlemaps-zak?utm_source=chatgpt.com)
+
+Usage personnel gratuit selon la licence indiquée par le créateur.&#x20;
+
+[image](https://www.google.com/s2/favicons?domain=https://zak-jdr.itch.io\&sz=32)
+
+itch.io
+
+
+
+Mon choix pour ta première session : Deephold pour les pièges, puis une carte industrielle pour le boss final. Tu peux également modifier une carte de donjon classique avec des éclairages colorés, des écrans et des portes métalliques pour lui donner l'aspect d'une émission de télé-réalité.
+
+## 3. Les tokens : personnages, monstres et boss
+
+Le style recherché : vues du dessus, PNG transparents, visuels lisibles à petite taille. Les illustrations de référence ci-dessous ne sont pas des tokens à télécharger directement.
+
+[Tokens - Crosshead](https://images.openai.com/static-rsc-4/PrEogr29hjW6u2o9CJ8Qs1o307MsbegDUseG1A02vRJcpuiiGIuyGS2DQR2TP0L8jELBRlfTn6OgV5UPkB9vx8gn8oXjfy8lF_wN40RB39LVc-igu8g4nt9P_ASkDca5EhhR5t5P3_OtjpsPz0LKUm3qqGeMl5PhX0FTH6W9_MA?purpose=inline)
+
+Les personnages joueurs
+
+Utilise des aventuriers colorés avec des silhouettes bien différentes. Pour retrouver l'ambiance DCC, ajoute un token de chat couronné pour Donut ou un barbare en slip pour Carl si vous jouez des personnages inspirés des héros.
+
+&#x20;[Bibliothèque de tokens Forgotten Adventures](https://www.forgotten-adventures.net/tokens-library/?utm_source=chatgpt.com)
+
+[Roll20 Compendium](https://images.openai.com/static-rsc-4/0EXx2KiNVo6qBOAwekUoSs5Rb9Hoth4UU_OrsZ2ieos9c7Iy11SHzgZjBrTc2GSsShaEHOdtByTLvn6RTBEXMgfVMz5QJI5xrYQDSDx0S4faCfKvzmtIttbpV58ig7QTJq6crqRj0qIFSe6YX2gfPd3xcNXrYQrpoBfAfv4McUg?purpose=inline)
+
+Gégé et les monstres secondaires
+
+Des gobelins, rats géants ou petites créatures bizarres feront parfaitement l'affaire.
+
+&#x20;[Goblin Tribes Token Pack pour Foundry](https://foundryvtt.com/packages/goblin-tribes-token-pack?utm_source=chatgpt.com)
+
+Pack dédié aux gobelins, avec différentes poses et variantes.&#x20;
+
+[image](https://www.google.com/s2/favicons?domain=https://foundryvtt.com\&sz=32)
+
+Foundry Virtual Tabletop
+
+
+
+[5etools](https://images.openai.com/static-rsc-4/rowhMgXGmeAqMjBCRRFfphGIuobiJgJe-DIEmv14jYSnkVRqvwNsnGTMxQ6nDku7FAguN_5d4ScgCWWM3uyHa88WochRnBFpP-lYnaGJb-z3sMtkCVSRULpw1Q3gvMdDSfe5EfLstK8NR9FLmKQ1PacZRF724qyrqIZKy_UQk5U?purpose=inline)
+
+Le Mimique influenceur
+
+Cherche un token de coffre mimique, monstre avec une bouche ou créature tentaculaire. Si tu n'en trouves pas, utilise un token de coffre fermé pour la première phase et remplace-le par le monstre lorsqu'il attaque.
+
+&#x20;[Monster Tokens — Foundry VTT](https://foundryvtt.com/packages/monster-tokens?utm_source=chatgpt.com)
+
+Autre solution : récupérer un token de monstre dans Forgotten Adventures.&#x20;
+
+[image](https://www.google.com/s2/favicons?domain=https://www.forgotten-adventures.net\&sz=32)
+
+Forgotten Adventures
+
++1
+
+
+
+### Comment obtenir une bibliothèque de tokens gratuitement
+
+Le plus simple est d'utiliser Forgotten Adventures :
+
+1. Ouvre sa [bibliothèque de tokens](https://www.forgotten-adventures.net/tokens-library/?utm_source=chatgpt.com).
+2. Télécharge la bibliothèque gratuite en PNG ou WEBP.
+3. Cherche des aventuriers, des gobelins, des créatures et des PNJ.
+4. Dépose les fichiers dans le répertoire de données de Foundry.
+5. Dans Foundry, crée tes acteurs et attribue à chacun son image de token.
+
+Le module [FA Nexus](https://foundryvtt.com/packages/fa-nexus?utm_source=chatgpt.com) permet également d'explorer les ressources gratuites directement depuis Foundry VTT. Vérifie la compatibilité avec ta version avant l'installation.&#x20;
+
+[image](https://www.google.com/s2/favicons?domain=https://www.forgotten-adventures.net\&sz=32)
+
+Forgotten Adventures
+
++1
+
+
+
+Pour les héros officiels de Dungeon Crawler Carl, privilégie les illustrations et tokens fournis avec le jeu sous licence plutôt que des images récupérées au hasard sur Internet.
+
+## 4. Construire les trois scènes dans Foundry VTT
+
+Scène 1 — Le sas
+
+Une petite pièce, une porte verrouillée, un distributeur et un écran mural.
+
+Scène 2 — Le couloir
+
+Place trois pièges, deux leviers et une zone de sécurité. Utilise la lumière et le brouillard de guerre.
+
+Scène 3 — L'arène
+
+Une grande pièce circulaire, le boss au centre, deux monstres secondaires et quelques cases dangereuses.
+
+Pour une carte avec une grille intégrée, règle la grille de Foundry à la même dimension. Pour une carte sans grille, utilise l'outil d'alignement de grille sur les murs ou les éléments répétitifs du décor.
+
+Si tu disposes déjà du module officiel DCC pour Foundry, utilise ses fiches et ses règles pour gérer les acteurs, les combats et les tests plutôt que de créer un système parallèle.
+
+## 5. Je peux maintenant adapter le kit à ta configuration
+
+Pour éviter de te proposer des ressources qui ne correspondent pas à ton jeu, précise-moi juste ces deux éléments.
+
+Quel système comptes-tu utiliser dans Foundry ?
+
+Le système officiel Dungeon Crawler Carl RPG
+
+D&D 5e, adapté à l'univers
+
+Un autre système / je ne sais pas encore
+
+Quel style visuel préfères-tu ?
+
+Cartoon, coloré et déjanté
+
+Réaliste, sombre et sanglant
+
+Un mélange de fantasy et de science-fiction
+
+Quel budget pour les ressources ?
+
+Gratuit uniquement
+
+Quelques euros pour des packs de qualité
+
+Je possède ou compte prendre les ressources officielles
+
+Adapter le kit à ma partie
+
+Avec ces choix, je pourrai te proposer une sélection plus précise de cartes, de tokens et de modules, ainsi qu'une liste d'étapes pour que ta première session soit prête à lancer dans Foundry.
